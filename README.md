@@ -10,7 +10,7 @@
 <a href="https://github.com/TomDra">
   <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=TomDra&theme=dark&hide=prs&show_icons=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/TomDra">
   <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?username=TomDra&theme=dark" />
 </a>
 
