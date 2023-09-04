@@ -1,5 +1,4 @@
-## Hi there 👋
-### goldenlion3#5106
+## Hello! 👋
 
 <!--
 ![GitHub Stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=TomDra&theme=dark&hide=prs&show_icons=true&count_private=true)
